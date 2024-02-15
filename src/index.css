@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "Nunito";
+  src: url("./fonts/Nunito/Nunito-VariableFont_wght.ttf");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Titan One";
+  src: url("./fonts/Titan_One/TitanOne-Regular.ttf");
+  font-display: swap;
+}
+
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: Nunito, sans-serif;
+  margin: 0px;
+}
